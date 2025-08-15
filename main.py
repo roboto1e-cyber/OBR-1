@@ -1,3 +1,5 @@
 print('Olá, mundo!')
 print('Este é um exemplo de código Python.')
 print('A execução do código foi bem-sucedida.')
+print('Obrigado por usar este script!')
+print('Fim do script.')
